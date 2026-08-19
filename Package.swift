@@ -30,8 +30,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "FPHIBehavior",
-            url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPHIBehavior/1.0.4/FPHIBehavior.zip",
-            checksum: "8892d91de4bcb0853055da74afe6ac04a1712cba528aa78a9564efd88f67daa2"
+            url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPHIBehavior/1.0.5/FPHIBehavior.zip",
+            checksum: "35bc18aad8cb141779d03b046c92a7e1116c1c250e470d67acee85809f435213"
         ),
     ]
 )
